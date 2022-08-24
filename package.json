@@ -1,7 +1,7 @@
 {
-  "name": "express-heroku-demo",
+  "name": "adotspet",
   "version": "1.0.0",
-  "description": "Edit me later",
+  "description": "App para cadastro de adoção de pets",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
