@@ -36,6 +36,11 @@ body{
     width: 35vw;
 }
 
+.left-register-image{
+    font-size: 3vs;
+    width: 10vw;
+}
+
 .right-login{
     width: 50vw;
     height: 100vh;
